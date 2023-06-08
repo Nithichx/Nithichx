@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Manual Tester & Automation Tester
 ---------------------------------
 
-With a desire for challenges and a lover for information technology i’m intersted in the position of an Manual Tester and Automation Tester because personally like find mistakes in the web application in order to bring a solution to the problem to make sure the use of the application as complete as possible. I strongly belive that will apply the previous knowledge to be consistent and achieve the highest efficiency with the organization.
+    With a desire for challenges and a lover for information technology i’m intersted in the position of an Manual Tester and Automation Tester because personally like find mistakes in the web application in order to bring a solution to the problem to make sure the use of the application as complete as possible. 
+    I strongly belive that will apply the previous knowledge to be consistent and achieve the highest efficiency with the organization.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nithichx@gmail.com](mailto:nithichx@gmail.com)
