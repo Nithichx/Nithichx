@@ -5,6 +5,7 @@ Manual Tester & Automation Tester
 ---------------------------------
 
    With a desire for challenges and a lover for information technology i’m intersted in the position of an Manual Tester and Automation Tester because personally like find mistakes in the web application in order to bring a solution to the problem to make sure the use of the application as complete as possible. 
+   
    I strongly belive that will apply the previous knowledge to be consistent and achieve the highest efficiency with the organization.
 
 * 🌍  I'm based in Bangkok, Thailand
